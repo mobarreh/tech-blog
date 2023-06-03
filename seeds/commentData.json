@@ -1,0 +1,17 @@
+[
+	{
+		"blog_id": 1,
+		"comment_description": "What an orginal thought!",
+		"user_id": 3
+	},
+	{
+		"blog_id": 2,
+		"comment_description": "Can't believe you think this!",
+		"user_id": 1
+	},
+	{
+		"blog_id": 3,
+		"comment_description": "Nice work!",
+		"user_id": 2
+	}
+]
