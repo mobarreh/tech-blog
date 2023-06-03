@@ -18,6 +18,6 @@ Ensure that you have a .env file that contains your MySQL Username and Password 
 
 # Deployed application
 
-Here is a link to a live version of the application - 
+Here is a link to a live version of the application - https://afternoon-depths-60144.herokuapp.com/ 
 
 ![image](https://github.com/shtuupid/tech-blog/assets/67907083/38d1b437-c166-41af-8ac0-d0a05113d895)
